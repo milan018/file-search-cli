@@ -1,0 +1,22 @@
+{
+  "name": "filesearch",
+  "version": "1.0.0",
+  "description": "A CLI tool that indexes and searches files by name using an inverted index",
+  "main": "content-search.js",
+  "type": "module",
+  "scripts": {
+    "start": "node script.js",
+    "reindex": "node script.js --reindex"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milan018/file-search-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milan018/file-search-cli/issues"
+  },
+  "homepage": "https://github.com/milan018/file-search-cli#readme"
+}
