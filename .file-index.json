@@ -1,0 +1,38 @@
+{
+  "arop": [
+    "arop.js"
+  ],
+  "content": [
+    "content-search.js"
+  ],
+  "search": [
+    "content-search.js"
+  ],
+  "file": [
+    "file.js"
+  ],
+  "index": [
+    "index.json"
+  ],
+  "dtdi": [
+    "projectC\\dtdi-uudidi.c"
+  ],
+  "uudidi": [
+    "projectC\\dtdi-uudidi.c"
+  ],
+  "fs": [
+    "projectC\\osapi\\fs.c",
+    "projectC\\osapi\\fs.h"
+  ],
+  "omnistd": [
+    "projectC\\osapi\\omnistd.c",
+    "projectC\\osapi\\omnistd.h"
+  ],
+  "osapi": [
+    "projectC\\osapi\\osapi.c",
+    "projectC\\osapi\\osapi.h"
+  ],
+  "report": [
+    "report-report.pdf"
+  ]
+}
